@@ -3,6 +3,8 @@
         {
           "number": "2.12",
           "date": "December 28, 2018",
+          "title": "Inline Files",
+          "innovation": "Create, edit and delete inline files in text sections and tables.",
           "features": [
             {
               "name": "Formulas Editor",
@@ -39,6 +41,8 @@
         {
           "number": "2.11",
           "date": "November 8, 2018",
+          "title": "",
+          "innovation": "",
           "features": [
             {
               "name": "Interface Upgrade",
@@ -75,6 +79,8 @@
         {
           "number": "2.10",
           "date": "September 28, 2018",
+          "title": "",
+          "innovation": "",
           "features": [
             {
               "name": "Formulas Editor",
@@ -111,6 +117,8 @@
         {
           "number": "2.09",
           "date": "September 03, 2018",
+          "title": "",
+          "innovation": "",
           "features": [
             {
               "name": "Formulas Editor",
