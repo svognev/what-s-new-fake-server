@@ -85,25 +85,25 @@
         "innovation": "Erstellen, bearbeiten und löschen Sie Inline-Dateien in Textabschnitten und Tabellen.",
         "features": [
           {
-            "name": "Formulas Editor",
+            "name": "Formeleditor",
             "descriptionShort": "Create, edit and delete formulas using our Formulas Editor.",
             "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
             "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png"
           },
           {
-            "name": "Import/Export comments",
+            "name": "Kommentare importieren/exportieren",
             "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
             "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
             "icon": "https://i.ibb.co/Gvs2FBc/imagebot-6.png"
           },
           {
-            "name": "Quick Start Menus",
+            "name": "Schnellstart-Menüs",
             "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
             "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
             "icon": "https://i.ibb.co/hZPbN1Q/imagebot-7.png"
           },
           {
-            "name": "One More Feature",
+            "name": "Ein weiteres Feature",
             "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
             "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
             "icon": "https://i.ibb.co/4VCpjrr/imagebot-8.png"
@@ -123,25 +123,25 @@
         "innovation": "",
         "features": [
           {
-            "name": "Interface Upgrade",
+            "name": "Verbessertes Interfacedesign",
             "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
             "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
             "icon": "https://i.ibb.co/fNhBzpn/imagebot-4.png"
           },
           {
-            "name": "Search/Replace Styles",
+            "name": "Suchen/Ersetzen von Stilen",
             "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
             "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
             "icon": "https://i.ibb.co/TPPZxP0/imagebot.png"
           },
           {
-            "name": "More Shortcuts",
+            "name": "Weitere Verknüpfungen",
             "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
             "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
             "icon": "https://i.ibb.co/93wRGHb/imagebot-3.png"
           },
           {
-            "name": "Level of numbering",
+            "name": "Ebene der Nummerierung",
             "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
             "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
             "icon": "https://i.ibb.co/cxFv9PW/imagebot-2.png"
