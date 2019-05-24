@@ -75,82 +75,6 @@
               "icon": "https://i.ibb.co/4VCpjrr/imagebot-8.png"
             }
           ]
-        },
-        {
-          "number": "2.10",
-          "date": "September 28, 2018",
-          "title": "",
-          "innovation": "",
-          "features": [
-            {
-              "name": "Formulas Editor",
-              "descriptionShort": "Create, edit and delete formulas using our Formulas Editor.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png"
-            },
-            {
-              "name": "Import/Export comments",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/Gvs2FBc/imagebot-6.png"
-            },
-            {
-              "name": "Quick Start Menus",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/hZPbN1Q/imagebot-7.png"
-            },
-            {
-              "name": "One More Feature",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/93wRGHb/imagebot-3.png"
-            },
-            {
-              "name": "Hidden Feature",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/4VCpjrr/imagebot-8.png"
-            }
-          ]
-        },
-        {
-          "number": "2.09",
-          "date": "September 03, 2018",
-          "title": "",
-          "innovation": "",
-          "features": [
-            {
-              "name": "Formulas Editor",
-              "descriptionShort": "Create, edit and delete formulas using our Formulas Editor.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png"
-            },
-            {
-              "name": "Import/Export comments",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/Gvs2FBc/imagebot-6.png"
-            },
-            {
-              "name": "Quick Start Menus",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/hZPbN1Q/imagebot-7.png"
-            },
-            {
-              "name": "One More Feature",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/93wRGHb/imagebot-3.png"
-            },
-            {
-              "name": "Hidden Feature",
-              "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-              "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-              "icon": "https://i.ibb.co/4VCpjrr/imagebot-8.png"
-            }
-          ]
         }
       ],
     "de": [
@@ -221,44 +145,6 @@
             "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
             "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
             "icon": "https://i.ibb.co/cxFv9PW/imagebot-2.png"
-          },
-          {
-            "name": "Hidden Feature",
-            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-            "icon": "https://i.ibb.co/4VCpjrr/imagebot-8.png"
-          }
-        ]
-      },
-      {
-        "number": "2.10",
-        "date": "28. September 2018",
-        "title": "",
-        "innovation": "",
-        "features": [
-          {
-            "name": "Formulas Editor",
-            "descriptionShort": "Create, edit and delete formulas using our Formulas Editor.",
-            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-            "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png"
-          },
-          {
-            "name": "Import/Export comments",
-            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-            "icon": "https://i.ibb.co/Gvs2FBc/imagebot-6.png"
-          },
-          {
-            "name": "Quick Start Menus",
-            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-            "icon": "https://i.ibb.co/hZPbN1Q/imagebot-7.png"
-          },
-          {
-            "name": "One More Feature",
-            "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
-            "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-            "icon": "https://i.ibb.co/93wRGHb/imagebot-3.png"
           },
           {
             "name": "Hidden Feature",
